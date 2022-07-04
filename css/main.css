@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:  #f2f3f4;
+    color:#212f3c;
+    font-family: 'Space Mono', monospace;
+}
+
+canvas {
+    background-color:#212f3c;
+    border: 5px solid #85929e;
+}
+
+.container {
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+    text-align: center;
+}
